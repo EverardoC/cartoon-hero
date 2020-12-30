@@ -46,7 +46,11 @@ h2 {
 	color: saddlebrown;
 	margin:40px 0 10px;
 }
-p li{
+p {
+	font-weight: bolder;
+	line-height: 40px;
+}
+li {
 	font-weight: bolder;
 	line-height: 40px;
 }
