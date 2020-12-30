@@ -1,0 +1,79 @@
+
+body {
+	margin: 0;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 20px;
+line-height: 30px;
+background-image: url(https://i.pinimg.com/originals/27/a5/a3/27a5a3e32e32369486b5daf17687bd3a.jpg);
+background-color: #cccccc
+}
+header {
+	background-image: url(https://i.pinimg.com/originals/27/a5/a3/27a5a3e32e32369486b5daf17687bd3a.jpg);
+	background-color: #cccccc;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2 {
+	font-family: 'Fredoka One', cursive;
+}
+
+header h1 {
+	color: saddlebrown;
+	font-size: 50px;
+	
+}
+
+header img {
+	border-radius: 150px;
+    width: 270px;
+    border: 20px solid saddlebrown;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img {
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: saddlebrown;
+	margin:40px 0 10px;
+}
+
+a {
+color: saddlebrown;
+
+}
+a:hover{
+	color: white;
+	background-color:#483a94;
+}
+footer {
+	background-color: #48DBF9;
+	text-align: center;
+	color: white;
+
+}
+footer p{
+	margin: 0;
+}
+footer a {
+	color: white;
+}
+footer a:hover {
+	opacity: .5;
+	background-color: transparent;
+
+}
+.caption {
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+}
