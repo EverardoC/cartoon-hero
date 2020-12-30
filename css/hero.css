@@ -52,7 +52,6 @@ p {
 }
 li {
 	font-weight: bolder;
-	line-height: 40px;
 }
 a {
 color: saddlebrown;
@@ -80,7 +79,7 @@ footer a:hover {
 
 }
 .caption {
-	color: #999999;
+	color: #7d7d7d;
 	font-style: italic;
 	margin-top: 0;
 }
